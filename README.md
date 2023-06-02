@@ -4,10 +4,10 @@ Java implementations of the Scotland Yard game.
 
 This repository contains two versions of the CW game: cw-model and cw-ai.
 
-##CW Model
+CW Model
 The cw-model directory includes the original version of the CW game. It provides a simple implementation of the game logic without any AI or scoring function. Players can take turns making moves until the game reaches a winning or draw state.
 
-##CW AI
+CW AI
 The cw-ai directory contains an enhanced version of the CW game. It incorporates an AI player that utilizes a scoring function and implements the MiniMax algorithm with Alpha-Beta pruning. This AI player provides a challenging opponent for human players.
 
 Scoring Function
